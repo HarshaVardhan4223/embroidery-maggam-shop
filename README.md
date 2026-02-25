@@ -16,7 +16,7 @@ A beautiful React-based showcase website for traditional embroidery and Maggam w
 ### Website Interface
 Our modern, user-friendly interface makes browsing easy:
 
-| Desktop View | Mobile View |
+
 |---|---|
 | ![Desktop Interface](./1.jpg) | ![Mobile Interface](./2.jpg) |
 
@@ -187,8 +187,8 @@ This project is open source and available under the MIT License.
 
 For inquiries about embroidery and maggam services:
 - Use the floating contact form on the website
-- Email: [your-email@example.com]
-- Phone: [your-phone-number]
+
+- Phone: [9951760789]
 
 ## 🙏 Acknowledgments
 
