@@ -13,17 +13,22 @@ A beautiful React-based showcase website for traditional embroidery and Maggam w
 
 ## 🖼️ Gallery Preview
 
-Our collection includes:
+### Website Interface
+Our modern, user-friendly interface makes browsing easy:
 
-### Embroidery Works
-![Embroidery Work 1](1.jpg)
-![Embroidery Work 2](2.jpg)
+| Desktop View | Mobile View |
+|---|---|
+| ![Desktop Interface](./1.jpg) | ![Mobile Interface](./2.jpg) |
 
-### Maggam Works
-![Maggam Work 3](3.jpg)
-![Maggam Work 4](4.jpg)
+### Featured Artwork
 
-Experience our complete collection at [Live Demo](your-github-pages-url)
+#### Maggam Work
+![Maggam Traditional Artwork](./3.jpg)
+
+#### Embroidery Work
+![Embroidery Design](./4.jpg)
+
+Experience our complete collection at [Live Demo](https://github.com/HarshaVardhan4223/embroidery-maggam-shop)
 
 ## 📁 Project Structure
 
